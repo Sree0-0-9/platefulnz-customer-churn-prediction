@@ -39,7 +39,3 @@ Subscription businesses need to identify customers at risk of churn before they 
 The repository includes a poster artifact summarising the churn prediction problem, modelling approach, and business recommendations.
 
 ![PlatefulNZ churn prediction poster](Businfo704_PlatefulNZ_Poster.jpg)
-
-## Portfolio Note
-
-This is a public portfolio version prepared from academic analytics work. Student IDs, group-member details, and course-submission wording have been removed. The analysis file is included as a source/report artifact; private or non-shareable data should not be uploaded unless it is confirmed safe for public release.
