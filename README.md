@@ -14,6 +14,16 @@ Subscription businesses need to identify customers at risk of churn before they 
 - Comparison of interpretable and higher-performing models
 - Business recommendations from predictive analytics
 
+## Key Findings
+
+- Churn modelling is most useful when it identifies actionable retention drivers, not only high-risk customer labels.
+- Customer satisfaction, purchase behaviour, payment issues, and engagement patterns can provide useful retention signals.
+- Comparing interpretable models with higher-performing models helps balance business explainability and predictive strength.
+
+## Business Recommendation
+
+Prioritise early intervention for at-risk customers through billing reliability improvements, targeted offers, and service recovery actions for low-satisfaction segments.
+
 ## Tools Used
 
 - R
@@ -38,4 +48,8 @@ Subscription businesses need to identify customers at risk of churn before they 
 
 The repository includes a poster artifact summarising the churn prediction problem, modelling approach, and business recommendations.
 
-![PlatefulNZ churn prediction poster](Businfo704_PlatefulNZ_Poster.jpg)
+![PlatefulNZ churn prediction poster](reports/platefulnz_churn_prediction_poster.jpg)
+
+## Portfolio Note
+
+This is a public portfolio version prepared from academic analytics work. Student IDs, group-member details, and course-submission wording have been removed. The analysis file is included as a source/report artifact; private or non-shareable data should not be uploaded unless it is confirmed safe for public release.
