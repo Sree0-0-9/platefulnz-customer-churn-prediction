@@ -38,10 +38,9 @@ Prioritise early intervention for at-risk customers through billing reliability 
 
 ```text
 .
-├── platefulnz_churn_analysis.qmd
-├── reports/
-│   └── platefulnz_churn_prediction_poster.jpg
-└── README.md
+|-- Businfo704_PlatefulNZ_Poster.jpg
+|-- platefulnz_churn_analysis.qmd
+`-- README.md
 ```
 
 ## Project Poster
@@ -49,3 +48,7 @@ Prioritise early intervention for at-risk customers through billing reliability 
 The repository includes a poster artifact summarising the churn prediction problem, modelling approach, and business recommendations.
 
 ![PlatefulNZ churn prediction poster](Businfo704_PlatefulNZ_Poster.jpg)
+
+## How To Open
+
+Open `platefulnz_churn_analysis.qmd` in RStudio or another Quarto-compatible editor. The poster image is included for quick portfolio preview inside GitHub.
