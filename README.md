@@ -48,4 +48,4 @@ Prioritise early intervention for at-risk customers through billing reliability 
 
 The repository includes a poster artifact summarising the churn prediction problem, modelling approach, and business recommendations.
 
-![PlatefulNZ churn prediction poster](platefulnz_churn_prediction_poster.jpg)
+![PlatefulNZ churn prediction poster](Businfo704_PlatefulNZ_Poster.jpg)
